@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc5B0F03170dC2EC187436086364CB1BF0C9EeD00",
+  "SCAN_LINK": "https://polygonscan.com/token/0xc5b0f03170dc2ec187436086364cb1bf0c9eed00",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Legendary Ladies Club",
+  "SYMBOL": "Legendary Ladies NFT",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 1000000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/legendaryladies",
+  "SHOW_BACKGROUND": true
+}
